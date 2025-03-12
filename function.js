@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Shoptet - upravit produkt jako link
 // @namespace    https://greasyfork.org/en/scripts/529581-shoptet-upravit-produkt-jako-link
-// @version      1.0
+// @version      1.01
 // @description  Make a span clickable by extracting an href and wrapping it in an anchor tag
 // @author       Michal
 // @include      *
